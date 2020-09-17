@@ -2,10 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 10 L00 General Log
-ZCZC W00 15 L03 github related
+ZCZC W00 90 L03 github related
 ZCZC W00 15 L01 Scele related
-ZCZC W00 15 L04 GitHub Pages related
+ZCZC W00 45 L04 GitHub Pages related
 ZCZC W00 20 L05 GSGS related
 ZCZC W00 38 L99 Other(Nonton Youtube https://www.youtube.com/watch?time_continue=9&v=l4b1D1vWRnc&feature=emb_title)
 ZCZC W00 100 L02 ZOOM related
-ZCZC W00 40 L07 Demo related
+ZCZC W00 60 L07 Demo related
+ZCZC W00 30 L99 Other(Bertanya kepada Asdos)
+ZCZC W00 30 L99 Other(Berdiskusi OS lewat plaftform Discord)
