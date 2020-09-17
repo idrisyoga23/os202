@@ -7,7 +7,7 @@
 <br>
 
 # Hello!!
-# My mame is Idris Yoga Pratama
+# My name is Idris Yoga Pratama
 
 ## [My Log](TXT/mylog.txt)
 <br>
