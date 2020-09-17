@@ -17,4 +17,3 @@
 * [Week 00](W00/)
 
 -- Idris.
-#Jolan Thru
