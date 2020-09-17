@@ -6,7 +6,8 @@
 
 <br>
 
-# My name is IdrisYogaPratama
+# Hello!!
+# My mame is Idris Yoga Pratama
 
 ## [My Log](TXT/mylog.txt)
 <br>
@@ -16,3 +17,4 @@
 * [Week 00](W00/)
 
 -- Idris.
+#Jolan Thru
