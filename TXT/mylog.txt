@@ -6,8 +6,16 @@ ZCZC W00 90 L03 github related
 ZCZC W00 15 L01 Scele related
 ZCZC W00 45 L04 GitHub Pages related
 ZCZC W00 20 L05 GSGS related
-ZCZC W00 38 L99 Other(Nonton Youtube https://www.youtube.com/watch?time_continue=9&v=l4b1D1vWRnc&feature=emb_title)
+ZCZC W00 38 L22 YouTube: study( https://www.youtube.com/watch?time_continue=9&v=l4b1D1vWRnc&feature=emb_title)
 ZCZC W00 100 L02 ZOOM related
-ZCZC W00 60 L07 Demo related
-ZCZC W00 30 L99 Other(Bertanya kepada Asdos)
-ZCZC W00 30 L99 Other(Berdiskusi OS lewat plaftform Discord)
+ZCZC W00 60 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 30 L09 AsDos: asking
+ZCZC W00 30 L23 Discord: discussion
+
+ZCZC W01 40 L09 AsDos: asking
+ZCZC W01 60 L11 Assignment #1
+ZCZC W01 40 L03 GitHub related
+ZCZC W01 60 L01 SCELE related
+ZCZC W01 120 L02 ZOOM related
+ZCZC W01 30 L23 Discord: discussion
+ZCZC W01 20 L05 GSGS related
