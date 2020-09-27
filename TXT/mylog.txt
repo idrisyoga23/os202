@@ -1,8 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+
+#WEEK00
 ZCZC W00 10 L00 General Log
 ZCZC W00 90 L03 github related
+ZCZC W00 30 L10 Assignment #1
+ZCZC W00 20 L11 Assignment #2
+ZCZC W00 40 L12 Assignment #3
+ZCZC W00 60 L13 Assignment #4
+ZCZC W00 5 L14 Assignment #5
 ZCZC W00 15 L01 Scele related
 ZCZC W00 45 L04 GitHub Pages related
 ZCZC W00 20 L05 GSGS related
@@ -12,10 +19,20 @@ ZCZC W00 60 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 30 L09 AsDos: asking
 ZCZC W00 30 L23 Discord: discussion
 
+#WEEK01
 ZCZC W01 40 L09 AsDos: asking
-ZCZC W01 60 L11 Assignment #1
+ZCZC W01 45 L10 Assignment #1
+ZCZC W01 60 L11 Assignment #2
+ZCZC W01 10 L12 Assignment #3
+ZCZC W01 25 L13 Assignment #4
+ZCZC W01 20 L14 Assignment #5
+ZCZC W01 10 L15 Assignment #6
+ZCZC W01 15 L16 Assignment #7
+ZCZC W01 120 L17 Assignment #8
+ZCZC W01 60 L18 Assignment #9
 ZCZC W01 40 L03 GitHub related
 ZCZC W01 60 L01 SCELE related
 ZCZC W01 120 L02 ZOOM related
 ZCZC W01 30 L23 Discord: discussion
-ZCZC W01 20 L05 GSGS related
+ZCZC W01 60 L05 GSGS related
+ZCZC W01 100 L06 Reading Books
