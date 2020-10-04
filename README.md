@@ -26,7 +26,7 @@ Week Task Checker :
   8. Create w00.md and w01.md for Weekly Top 10 List - Done
   9. Read OSC10 Chapter 1, 2, 18. - Done.
 
-  - Week 2:
+- Week 2:
   1. Read Chapter 16 and Chapter 17 - Done.
   2. Generate A GNub Key Pair - Done.
   3. Imnporting Key pair - Done.
