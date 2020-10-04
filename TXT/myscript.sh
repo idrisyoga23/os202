@@ -1,44 +1,21 @@
-
-
 #!/bin/bash
-echo "Hello World"
-echo "Enter Your Name"
-read name
-echo "Welcome $name to Os202"
-#!/bin/bash
-for (( counter=10; counter>0; counter-- ))
-do
-echo -n "$counter "
-done
-printf "\n"
+# Idris Yoga Pratama
+FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+SHA="SHA256SUM"
 
+rm -f $SHA $SHA.asc
 
+echo "sha256sum $FILES > $SHA"
+sha256sum $FILES > $SHA
 
-#!/bin/bash
-valid=true
-count=1
-while [ $valid ]
-do
-echo $count
-if [ $count -eq 5 ];
-then
-break
-fi
-((count++))
-done
+echo "sha256sum -c $SHA"
+sha256sum -c $SHA
 
-#!/bin/bash
-echo "Enter a valid number"
-read n
-if [ $n -eq 101 ];
-then
-echo "This is first number"
-elif [ $n -eq 510 ];
-then
-echo " This is second number "
-elif [ $n -eq 999 ];
-then
-echo " This is third number "
-else
-echo "No numbers over here"
-fi
+echo "gpg -o $SHA.asc -a -sb $SHA"
+gpg -o $SHA.asc -a -sb $SHA
+
+echo "gpg --verify $SHA.asc $SHA"
+gpg --verify $SHA.asc $SHA
+
+exit 0
+
