@@ -25,3 +25,14 @@ Week Task Checker :
   7. Update and Push mylog.txt - Done.
   8. Create w00.md and w01.md for Weekly Top 10 List - Done
   9. Read OSC10 Chapter 1, 2, 18. - Done.
+
+  - Week 2:
+  1. Read Chapter 16 and Chapter 17 - Done.
+  2. Generate A GNub Key Pair - Done.
+  3. Imnporting Key pair - Done.
+  4. Export key pair - Done
+  5. Review and pick at least 3 out 10 clostest neightbot - Done.
+  6. Update top 10 list for w02 - ....On Progress.
+  7. Write simple use bash script - Done.
+  8. Update My log - Done
+  9. Make SHA256SUm and sign it . - Done.
