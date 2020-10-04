@@ -32,7 +32,7 @@ Week Task Checker :
   3. Imnporting Key pair - Done.
   4. Export key pair - Done
   5. Review and pick at least 3 out 10 clostest neightbot - Done.
-  6. Update top 10 list for w02 - ....On Progress.
+  6. Update top 10 list for w02 - Done.
   7. Write simple use bash script - Done.
   8. Update My log - Done
   9. Make SHA256SUm and sign it . - Done.
