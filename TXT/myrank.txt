@@ -1,14 +1,9 @@
-Top 3 from 10 Github
+#Top 3 from 10 Github
 
-1. https://jeremiahtennes.github.io/os202/
-Review yang di berikan oleh jeremiah menurut saya sudah sesuai dengan apa yang telah di berikan. 
-Lalu untuk pagenya menurut saya simple dan sama juga dengan tema saya.
-Link yang di berikan di weekly juga sudah sesaui dengan apa yang telah di berikan.
+ZCZC W00 hugoir
+ZCZC W00 jeremiahtennes
+ZCZC W00 gilbertstefano48
 
-2.https://hugoir.github.io/os202/
-Setelah mereview halaman page yang di buat oleh hugo menurut saya page yang ia buat sangat lah baik dan weekly yang ia buat juga sangat lengkap.
-Log yang ia buat juga menerut saya juga sudah sesuai apa yang di perintahkan dan sangat lengkap.
-
-3.https://gilbertstefano48.github.io/os202/
-Setelah mereview halaman yang di buat oleh gilbert halmaannya cukup menarik dan simple.Lalu untuk weeklynya juga sudah lengkap.
-Tetapi kekurangannya hanyalah di mylog.txtnya masi sedikit dan tidak lengkap.
+ZCZC W01 gilbertstefano48
+ZCZC W01 hugoir
+ZCZC W01 jeremiahtennes
