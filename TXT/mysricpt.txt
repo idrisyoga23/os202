@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "Hello World"
+
+echo "Enter Your Name"
+read name
+echo "Welcome $name to OS202"
+
+echo "Enter username"
+read username
+echo "Enter password"
+read password
+
+if [[ ( $username == "admin" && $password == "secret" ) ]]; then
+echo "valid user"
+else
+echo "invalid user"
+fi
