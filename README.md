@@ -36,3 +36,15 @@ Week Task Checker :
   7. Write simple use bash script - Done.
   8. Update My log - Done
   9. Make SHA256SUm and sign it . - Done.
+
+- Week 3:
+  1. Read Chapter 13,14 and Chapter 15 - Done.
+  2. Try Demo - Done.
+  3. Update fle .bash_aliashes - Done.
+  4. Review and pick at least 3 out 10 clostest neightbor  - Done
+  5. Create Top 10 list for w03 - Done.
+  6. run chtoken and make the file result to myw03token.txt- Done.
+  7. Download TLPI and extracit and write the disk usage to myW03disk.txt - Done.
+  8. Update My log - Done
+  9. Update bash script - Done
+  10. Make SHA256SUm and sign it . - Done. 

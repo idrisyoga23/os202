@@ -7,3 +7,7 @@ ZCZC W00 gilbertstefano48
 ZCZC W01 gilbertstefano48
 ZCZC W01 hugoir
 ZCZC W01 jeremiahtennes
+
+ZCZC W02 jeremiahtennes
+ZCZC W02 hugoir
+ZCZC W02 gilbertstefano48 
