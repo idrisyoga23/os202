@@ -48,3 +48,15 @@ Week Task Checker :
   8. Update My log - Done
   9. Update bash script - Done
   10. Make SHA256SUm and sign it . - Done. 
+
+  - Week 4:
+  1. Read Chapter 9 - Done
+  2. Update Virtual Box
+  3. Make Top 10 list at least 3 neighbour - Done
+  4. Make top 10 list for week 04 - Done
+  5. Run chktoken NEWHOPE - Done
+  6. Download file for myW04 - Done
+  7. Update your log - Done
+  8. Update bash script - Done
+  9. Make SHA256SUm and sign it - Done
+
