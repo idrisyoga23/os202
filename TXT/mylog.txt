@@ -96,4 +96,4 @@ ZCZC W04 60 L07 Demo related
 ZCZC W04 120 L05 GSGS related
 ZCZC W04 60 L25 C-language: study, etc.
 ZCZC W04 120 L26 Movie: relax, etc.
-ZCZC W03 30 L23 Discord: discussion
+ZCZC W04 30 L23 Discord: discussion
