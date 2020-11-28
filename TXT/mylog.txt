@@ -158,3 +158,20 @@ ZCZC W07 40 L05 GSGS related
 ZCZC W07 60 L25 C-language: study, etc.
 ZCZC W07 120 L26 Movie: relax, etc.
 ZCZC W07 30 L23 Discord: discussion
+
+#WEEK 08
+ZCZC W08 10 L00 General Log
+ZCZC W08 5 L11 Assignment #1
+ZCZC W08 100 L12 Assignment #2
+ZCZC W08 5 L13 Assignment #3
+ZCZC W08 40 L14 Assignment #4
+ZCZC W08 100 L15 Assignment #5
+ZCZC W08 5 L16 Assignment #6
+ZCZC W08 5 L17 Assignment #7
+ZCZC W08 10 L18 Assignment #8
+ZCZC W08 5 L19 Assignment #9
+ZCZC W08 5 L20 Assignment #10
+ZCZC W08 10 L21 Assignment #11
+ZCZC W08 120 L02 ZOOM related
+ZCZC W08 100 L06 Reading Books
+ZCZC W08 40 L05 GSGS related
